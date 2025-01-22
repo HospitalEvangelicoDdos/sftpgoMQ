@@ -65,5 +65,6 @@ WORKDIR /var/lib/sftpgo
 USER 1000:1000
 
 EXPOSE 8080
+EXPOSE 2222
 
 CMD ["sftpgo", "serve"]
