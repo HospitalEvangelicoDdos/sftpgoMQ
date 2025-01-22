@@ -52,12 +52,7 @@
         "period": 1000,
         "burst": 1,
         "type": 2,
-        "protocols": [
-          "SSH",
-          "FTP",
-          "DAV",
-          "HTTP"
-        ],
+        "protocols": ["SSH", "FTP", "DAV", "HTTP"],
         "generate_defender_events": false,
         "entries_soft_limit": 100,
         "entries_hard_limit": 150
@@ -292,11 +287,7 @@
           "client_secret_file": "",
           "config_url": "",
           "redirect_base_url": "",
-          "scopes": [
-            "openid",
-            "profile",
-            "email"
-          ],
+          "scopes": ["openid", "profile", "email"],
           "username_field": "",
           "role_field": "",
           "implicit_roles": false,
@@ -323,10 +314,10 @@
         },
         "branding": {
           "web_admin": {
-            "name": "",
+            "name": "MQFile",
             "short_name": "",
             "favicon_path": "",
-            "logo_path": "",
+            "logo_path": "static/logo.png",
             "disclaimer_name": "",
             "disclaimer_path": "",
             "default_css": [],
@@ -336,7 +327,7 @@
             "name": "",
             "short_name": "",
             "favicon_path": "",
-            "logo_path": "",
+            "logo_path": "static/logo.png",
             "disclaimer_name": "",
             "disclaimer_path": "",
             "default_css": [],
