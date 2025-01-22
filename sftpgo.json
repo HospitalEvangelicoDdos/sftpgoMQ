@@ -315,7 +315,7 @@
         "branding": {
           "web_admin": {
             "name": "MQFile",
-            "short_name": "",
+            "short_name": "MQFile",
             "favicon_path": "",
             "logo_path": "./static/logo.png",
             "disclaimer_name": "",
@@ -324,8 +324,8 @@
             "extra_css": []
           },
           "web_client": {
-            "name": "",
-            "short_name": "",
+            "name": "MQFile",
+            "short_name": "MQFile",
             "favicon_path": "",
             "logo_path": "./static/logo.png",
             "disclaimer_name": "",
