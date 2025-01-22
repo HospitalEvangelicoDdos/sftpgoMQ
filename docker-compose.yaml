@@ -1,7 +1,8 @@
 services:
   sftpgo:
-    image: .
-    # default user id
+    build:
+      context: .
+      dockerfile: Dockerfile
     user: "1000"
     restart: always
     ports:
