@@ -64,4 +64,6 @@ RUN chown -R sftpgo:sftpgo /etc/sftpgo /srv/sftpgo && chown sftpgo:sftpgo /var/l
 WORKDIR /var/lib/sftpgo
 USER 1000:1000
 
+EXPOSE 8080
+
 CMD ["sftpgo", "serve"]
