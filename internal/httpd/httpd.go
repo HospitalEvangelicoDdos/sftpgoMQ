@@ -14,7 +14,7 @@
 
 // Package httpd implements REST API and Web interface for SFTPGo.
 // The OpenAPI 3 schema for the supported API can be found inside the source tree:
-// https://github.com/drakkan/sftpgo/blob/main/openapi/openapi.yaml
+// https://github.com/diegcarlos/sftpgoMQ/blob/main/openapi/openapi.yaml
 package httpd
 
 import (

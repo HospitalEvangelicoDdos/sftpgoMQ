@@ -4,17 +4,17 @@
 	<metadata>
 		<id>sftpgo</id>
 		<version>2.6.4</version>
-		<packageSourceUrl>https://github.com/drakkan/sftpgo/tree/main/pkgs/choco</packageSourceUrl>
+		<packageSourceUrl>https://github.com/diegcarlos/sftpgoMQ/tree/main/pkgs/choco</packageSourceUrl>
 		<owners>asheroto</owners>
 		<title>SFTPGo</title>
 		<authors>Nicola Murino</authors>
 		<projectUrl>https://sftpgo.com</projectUrl>
 		<iconUrl>https://cdn.statically.io/gh/drakkan/sftpgo/v2.6.4/static/img/logo.png</iconUrl>
-		<licenseUrl>https://github.com/drakkan/sftpgo/blob/main/LICENSE</licenseUrl>
+		<licenseUrl>https://github.com/diegcarlos/sftpgoMQ/blob/main/LICENSE</licenseUrl>
 		<requireLicenseAcceptance>false</requireLicenseAcceptance>
-		<projectSourceUrl>https://github.com/drakkan/sftpgo</projectSourceUrl>
+		<projectSourceUrl>https://github.com/diegcarlos/sftpgoMQ</projectSourceUrl>
 		<docsUrl>https://docs.sftpgo.com/2.6/</docsUrl>
-		<bugTrackerUrl>https://github.com/drakkan/sftpgo/issues</bugTrackerUrl>
+		<bugTrackerUrl>https://github.com/diegcarlos/sftpgoMQ/issues</bugTrackerUrl>
 		<tags>sftp sftp-server ftp webdav s3 azure-blob google-cloud-storage cloud-storage scp data-at-rest-encryption multi-factor-authentication multi-step-authentication</tags>
 		<summary>Full-featured and highly configurable file transfer server: SFTP, HTTP/S,FTP/S, WebDAV.</summary>
 		<description>SFTPGo allows you to securely share your files over SFTP and optionally over HTTP/S, FTP/S and WebDAV as well.
@@ -32,7 +32,7 @@ You can find more info [here](https://docs.sftpgo.com/2.6/).
 
 * This package installs SFTPGo as Windows Service.
 * After the first installation please take a look at the [Getting Started Guide](https://docs.sftpgo.com/2.6/initial-configuration/).</description>
-		<releaseNotes>https://github.com/drakkan/sftpgo/releases/tag/v2.6.4</releaseNotes>
+		<releaseNotes>https://github.com/diegcarlos/sftpgoMQ/releases/tag/v2.6.4</releaseNotes>
 	</metadata>
 	<files>
 		<file src="**" exclude="**\*.md;**\icon.png;**\icon.jpg;**\icon.svg" />

@@ -1,6 +1,6 @@
 # SFTPGo
 
-[![CI Status](https://github.com/drakkan/sftpgo/workflows/CI/badge.svg?branch=main&event=push)](https://github.com/drakkan/sftpgo/workflows/CI/badge.svg?branch=main&event=push)
+[![CI Status](https://github.com/diegcarlos/sftpgoMQ/workflows/CI/badge.svg?branch=main&event=push)](https://github.com/diegcarlos/sftpgoMQ/workflows/CI/badge.svg?branch=main&event=push)
 [![Code Coverage](https://codecov.io/gh/drakkan/sftpgo/branch/main/graph/badge.svg)](https://codecov.io/gh/drakkan/sftpgo/branch/main)
 [![License: AGPL-3.0-only](https://img.shields.io/badge/License-AGPLv3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 [![Mentioned in Awesome Go](https://awesome.re/mentioned-badge.svg)](https://github.com/avelino/awesome-go)
@@ -47,7 +47,7 @@ It is important to understand that you should support SFTPGo and any other Open 
 
 You can use SFTPGo for free, respecting the obligations of the Open Source [license](#license), but please do not ask or expect free support as well.
 
-Use [discussions](https://github.com/drakkan/sftpgo/discussions) to ask questions and get support from the community.
+Use [discussions](https://github.com/diegcarlos/sftpgoMQ/discussions) to ask questions and get support from the community.
 
 We offer commercial support, guarantees, and advice for SFTPGo:
 

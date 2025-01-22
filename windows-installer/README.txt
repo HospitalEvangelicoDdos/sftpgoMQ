@@ -40,12 +40,12 @@ https://sftpgo.com/
 
 Source code:
 
-https://github.com/drakkan/sftpgo
+https://github.com/diegcarlos/sftpgoMQ
 
 If you find a bug please open an issue:
 
-https://github.com/drakkan/sftpgo/issues
+https://github.com/diegcarlos/sftpgoMQ/issues
 
 If you want to suggest a new feature or have a question, please start a new discussion:
 
-https://github.com/drakkan/sftpgo/discussions
+https://github.com/diegcarlos/sftpgoMQ/discussions
