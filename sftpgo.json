@@ -280,7 +280,7 @@
         "client_ip_header_depth": 0,
         "hide_login_url": 0,
         "render_openapi": true,
-        "languages": ["en"],
+        "languages": ["pt-BR"],
         "oidc": {
           "client_id": "",
           "client_secret": "",
@@ -314,7 +314,7 @@
         },
         "branding": {
           "web_admin": {
-            "name": "MQFile",
+            "name": "Hospital Presbiteriano Mackenzie",
             "short_name": "MQFile",
             "favicon_path": "",
             "logo_path": "",
@@ -324,7 +324,7 @@
             "extra_css": []
           },
           "web_client": {
-            "name": "MQFile",
+            "name": "Hospital Presbiteriano Mackenzie",
             "short_name": "MQFile",
             "favicon_path": "",
             "logo_path": "",
